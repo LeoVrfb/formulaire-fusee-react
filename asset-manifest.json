@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/formulaire-fusee-react/static/css/main.ffa2bb0b.chunk.css",
+    "main.js": "/formulaire-fusee-react/static/js/main.d704fb0f.chunk.js",
+    "main.js.map": "/formulaire-fusee-react/static/js/main.d704fb0f.chunk.js.map",
+    "runtime-main.js": "/formulaire-fusee-react/static/js/runtime-main.f0d206c4.js",
+    "runtime-main.js.map": "/formulaire-fusee-react/static/js/runtime-main.f0d206c4.js.map",
+    "static/js/2.d23adf7e.chunk.js": "/formulaire-fusee-react/static/js/2.d23adf7e.chunk.js",
+    "static/js/2.d23adf7e.chunk.js.map": "/formulaire-fusee-react/static/js/2.d23adf7e.chunk.js.map",
+    "index.html": "/formulaire-fusee-react/index.html",
+    "static/css/main.ffa2bb0b.chunk.css.map": "/formulaire-fusee-react/static/css/main.ffa2bb0b.chunk.css.map",
+    "static/js/2.d23adf7e.chunk.js.LICENSE.txt": "/formulaire-fusee-react/static/js/2.d23adf7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0d206c4.js",
+    "static/js/2.d23adf7e.chunk.js",
+    "static/css/main.ffa2bb0b.chunk.css",
+    "static/js/main.d704fb0f.chunk.js"
+  ]
+}
